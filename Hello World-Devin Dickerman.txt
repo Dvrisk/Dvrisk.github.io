@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Basic Web Page</title>
+</head>
+<body>
+  <h1>Hello World!</h1>
+  <h2><p>This is my assigment for Web, program, and data base foundations.</p></h2>
+</body>
+</html>
